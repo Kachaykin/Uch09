@@ -1,0 +1,49 @@
+﻿<Page x:Class="Uch.PageAdmin.PageAddCar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Uch.PageAdmin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageAddCar">
+
+    <Grid Background="#fff">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="399"/>
+            <ColumnDefinition Width="401"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="347"/>
+            <RowDefinition Height="7"/>
+            <RowDefinition Height="81"/>
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="406" Margin="197,20,0,0" Height="227" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="180"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="58"/>
+                <RowDefinition Height="58"/>
+                <RowDefinition Height="58"/>
+                <RowDefinition Height="58"/>
+            </Grid.RowDefinitions>
+            <TextBlock TextAlignment="Center" Text="Название автомобиля:" Width="176" FontSize="15" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Margin="4,23,0,0" Grid.RowSpan="2"/>
+            <TextBlock TextAlignment="Center" HorizontalAlignment="Left" Width="165" Margin="5,10,0,0" FontSize="15" Height="48" VerticalAlignment="Top" Grid.Row="1"><Run Text="Регистрационный "/><LineBreak/><Run Text="номер:"/></TextBlock>
+            <TextBlock TextAlignment="Center" Text="Год:" HorizontalAlignment="Left" Width="81" Margin="47,16,0,16" FontSize="15" Grid.Row="2"/>
+            <TextBlock TextAlignment="Center" Text="Цвет:" HorizontalAlignment="Center" Width="124" Margin="0,10,0,0" FontSize="15" Height="34" VerticalAlignment="Top" Grid.Row="3"/>
+
+            <TextBox x:Name="Name" Height="38" Margin="0,20,0,0" Grid.Column="1"/>
+            <TextBox x:Name="RegNum" Height="38" Margin="0,20,0,0" Grid.Column="1" Grid.Row="1"/>
+            <TextBox x:Name="Year" Height="38" Margin="0,20,0,0" Grid.Column="1" Grid.Row="2"/>
+            <TextBox x:Name="Color" Height="38" Margin="0,10,0,10" Grid.Column="1" Grid.Row="3"/>
+        </Grid>
+
+        <Button Click="Button_Add" Content="Добавить" Grid.ColumnSpan="2" Margin="200,325,200,78" Grid.RowSpan="3"/>
+        <Button Click="Button_Back" Content="Назад" Height="37" Grid.ColumnSpan="2" Margin="200,22,202,22" Grid.Row="2"/>
+
+    </Grid>
+</Page>

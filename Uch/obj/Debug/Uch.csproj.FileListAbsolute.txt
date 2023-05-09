@@ -1,0 +1,80 @@
+D:\PROGI\Visual studia\Uch\bin\Debug\Uch.exe.config
+D:\PROGI\Visual studia\Uch\bin\Debug\Uch.exe
+D:\PROGI\Visual studia\Uch\bin\Debug\Uch.pdb
+D:\PROGI\Visual studia\Uch\bin\Debug\EntityFramework.dll
+D:\PROGI\Visual studia\Uch\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGI\Visual studia\Uch\bin\Debug\EntityFramework.xml
+D:\PROGI\Visual studia\Uch\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGI\Visual studia\Uch\bin\Debug\ru\EntityFramework.resources.dll
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.csproj.AssemblyReference.cache
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.csproj.SuggestedBindingRedirects.cache
+D:\PROGI\Visual studia\Uch\obj\Debug\MainWindow.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\PageMain\PageLogin.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\App.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch_Content.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch_MarkupCompile.cache
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch_MarkupCompile.lref
+D:\PROGI\Visual studia\Uch\obj\Debug\MainWindow.baml
+D:\PROGI\Visual studia\Uch\obj\Debug\PageMain\PageLogin.baml
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.g.resources
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.Properties.Resources.resources
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.csproj.GenerateResource.cache
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.csproj.CoreCompileInputs.cache
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.csproj.CopyComplete
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.exe
+D:\PROGI\Visual studia\Uch\obj\Debug\Uch.pdb
+D:\PROGI\Visual studia\Uch\obj\Debug\PageMain\PageCreateAcc.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\PageMain\PageCreateAcc.baml
+D:\PROGI\Visual studia\Uch\bin\Debug\MaterialDesignColors.dll
+D:\PROGI\Visual studia\Uch\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROGI\Visual studia\Uch\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\PROGI\Visual studia\Uch\bin\Debug\MaterialDesignColors.pdb
+D:\PROGI\Visual studia\Uch\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROGI\Visual studia\Uch\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROGI\Visual studia\Uch\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\PROGI\Visual studia\Uch\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\PROGI\Visual studia\Uch\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\PROGI\Visual studia\Uch\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+D:\PROGI\Visual studia\Uch\obj\Debug\App.baml
+D:\PROGI\Visual studia\Uch\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Uch.exe.config
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Uch.exe
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Uch.pdb
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\MaterialDesignColors.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sergey\source\repos\Uch\Uch\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\MainWindow.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageMain\PageCreateAcc.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageMain\PageLogin.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\App.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch_Content.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch_MarkupCompile.cache
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch_MarkupCompile.lref
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\App.baml
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\MainWindow.baml
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageMain\PageCreateAcc.baml
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageMain\PageLogin.baml
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.g.resources
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.Properties.Resources.resources
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.csproj.CopyComplete
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.exe
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\Uch.pdb
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageAdmin\PageAddCar.g.cs
+C:\Users\Sergey\source\repos\Uch\Uch\obj\Debug\PageAdmin\PageAddCar.baml
